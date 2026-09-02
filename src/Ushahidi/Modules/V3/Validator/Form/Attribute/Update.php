@@ -53,6 +53,7 @@ class Update extends LegacyValidator
                     'date',
                     'datetime',
                     'location',
+                    'polygon',
                     'number',
                     'relation',
                     'upload',
